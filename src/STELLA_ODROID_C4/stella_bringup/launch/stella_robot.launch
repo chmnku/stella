@@ -1,0 +1,4 @@
+<launch>
+	<include file="$(find stella_md)/launch/stella_mwdriver.launch">
+	</include>
+</launch>

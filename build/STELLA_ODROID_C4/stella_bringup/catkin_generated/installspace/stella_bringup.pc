@@ -1,0 +1,8 @@
+prefix=/home/odroid/catkin_ws/install
+
+Name: stella_bringup
+Description: Description of stella_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

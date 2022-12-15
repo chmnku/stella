@@ -1,0 +1,2 @@
+set(stella_ahrs_MESSAGE_FILES "")
+set(stella_ahrs_SERVICE_FILES "")

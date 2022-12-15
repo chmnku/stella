@@ -1,0 +1,8 @@
+prefix=/home/odroid/catkin_ws/install
+
+Name: stella_camera
+Description: Description of stella_camera
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

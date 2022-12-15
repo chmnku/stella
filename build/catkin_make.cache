@@ -1,0 +1,2 @@
+STELLA_ODROID_C4/stella/stella_ahrs:STELLA_ODROID_C4/stella/stella_md:STELLA_ODROID_C4/stella/ydlidar_ros:STELLA_ODROID_C4/stella_bringup:STELLA_ODROID_C4/stella_camera:STELLA_ODROID_C4/stella_teleop_bluetooth
+-DCATKIN_DEVEL_PREFIX=/home/odroid/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/catkin_ws/install -G Unix Makefiles
