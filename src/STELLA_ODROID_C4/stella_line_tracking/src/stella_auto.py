@@ -128,7 +128,7 @@ def drive():
             if angle == -1:
                 angle_list.append(angle)
 
-            if len(angle_list) == 1:
+            if len(angle_list) == 5:
                 if target_linear_vel == target_linear_vel:
                     target_linear_vel = 0.0
                     # target_linear_vel = 0.2
